@@ -11,7 +11,7 @@ I'm interested in software systems, data analysis, and building tools that solve
 
 ---
 
-## Projects
+## Projects/Experience
 
 ### Digital Basketball Trading Card Backend
 Designed a relational database system supporting users, cards, decks, and trades.
