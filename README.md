@@ -6,34 +6,45 @@ I'm interested in software systems, data analysis, and building tools that solve
 
 ## Technical Skills
 
-Languages: Python, TypeScript, JavaScript, C++, SQL  
-Tools: PostgreSQL, Git, Node.js, NumPy, Pandas
+**Languages:** Python, TypeScript, JavaScript, C++, SQL  
+**Tools:** PostgreSQL, Git, Node.js, NumPy, Pandas
+
+---
 
 ## Projects
 
 ### Digital Basketball Trading Card Backend
-Designed a relational database system supporting users, cards, decks, and trades. Link to website: https://recitation-015-team-04-softdev.onrender.com/login
+Designed a relational database system supporting users, cards, decks, and trades.
 
 Features:
 - card ownership tracking
 - trade request system
 - deck construction logic
 
-Tech: PostgreSQL, TypeScript, Node.js
+**Tech:** PostgreSQL, TypeScript, Node.js  
+
+Live demo:  
+https://recitation-015-team-04-softdev.onrender.com/login
+
+---
 
 ### Backpack Society Platform (Blueprint Boulder)
 
-Contributing to backend development for a nonprofit program management platform used to support food security initiatives.
+Contributed backend development for a nonprofit program management platform supporting food security initiatives.
 
-Note: The production repository is private because it is part of an active nonprofit project.
+*Note: The production repository is private because it is part of an active nonprofit project.*
 
 Work included:
 
-• Improving and restructuring the PostgreSQL database schema for program and user data  
-• Implementing backend API endpoints to support administrative tools and data workflows  
-• Supporting features for tracking program participation and operational data
+- improving and restructuring the PostgreSQL relational schema for program and user data  
+- implementing backend API endpoints to support administrative tools and data workflows  
+- supporting features for tracking program participation and operational data  
 
-📫 How to reach me: https://www.linkedin.com/in/mati-abayneh-313250325/
+**Tech:** PostgreSQL, TypeScript, Node.js
 
+---
 
+## Contact
 
+LinkedIn:  
+https://www.linkedin.com/in/mati-abayneh-313250325/
