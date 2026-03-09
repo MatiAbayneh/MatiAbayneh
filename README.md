@@ -46,5 +46,7 @@ Work included:
 
 ## Contact
 
+📧 maab5397@colorado.edu 
 LinkedIn:  
 https://www.linkedin.com/in/mati-abayneh-313250325/
+
