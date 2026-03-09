@@ -23,7 +23,7 @@ Tech: PostgreSQL, TypeScript, Node.js
 
 ### Backpack Society Platform (Blueprint Boulder)
 
-Contributed backend development for a nonprofit program management platform used to support food security initiatives.
+Contributing to backend development for a nonprofit program management platform used to support food security initiatives.
 
 Note: The production repository is private because it is part of an active nonprofit project.
 
