@@ -11,8 +11,8 @@ Tools: PostgreSQL, Git, Node.js, NumPy, Pandas
 
 ## Projects
 
-### Digital Trading Card Backend
-Designed a relational database system supporting users, cards, decks, and trades.
+### Digital Basketball Trading Card Backend
+Designed a relational database system supporting users, cards, decks, and trades. Link to website: https://recitation-015-team-04-softdev.onrender.com/login
 
 Features:
 - card ownership tracking
