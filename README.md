@@ -7,7 +7,7 @@ I'm interested in software systems, data analysis, and building tools that solve
 ## Technical Skills
 
 **Languages:** Python, TypeScript, JavaScript, C++, SQL  
-**Tools:** PostgreSQL, Git, Node.js, NumPy, Pandas
+**Tools:** PostgreSQL, Git, Node.js, NumPy, Pandas, Docker
 
 ---
 
