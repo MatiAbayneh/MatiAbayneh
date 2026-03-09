@@ -22,18 +22,16 @@ Features:
 Tech: PostgreSQL, TypeScript, Node.js
 
 ### Backpack Society Platform (Blueprint Boulder)
-Worked on backend development for a nonprofit program platform.
+
+Contributed backend development for a nonprofit program management platform used to support food security initiatives.
+
+Note: The production repository is private because it is part of an active nonprofit project.
 
 Work included:
-- improving PostgreSQL database schema
-- building API endpoints for admin features
-- supporting data tracking for program operations
 
-## Interests
-
-- Machine learning
-- educational technology
-- backend systems
+• Improving and restructuring the PostgreSQL database schema for program and user data  
+• Implementing backend API endpoints to support administrative tools and data workflows  
+• Supporting features for tracking program participation and operational data
 
 📫 How to reach me: https://www.linkedin.com/in/mati-abayneh-313250325/
 
